@@ -1,0 +1,13 @@
+{
+  "author": "Gabriel DUOIS",
+  "dependencies": [],
+  "license": "",
+  "name": "apache",
+  "operatingsystem_support": [{"name":"Debian", "version":"8"}],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": ["apache"],
+  "version": "0.1.0"
+}

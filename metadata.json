@@ -1,13 +1,13 @@
 {
   "author": "Gabriel DUOIS",
   "dependencies": [],
-  "license": "",
-  "name": "apache",
-  "operatingsystem_support": [{"name":"Debian", "version":"8"}],
+  "license": "GPL-3.0",
+  "name": "puppet-apache",
+  "operatingsystem_support": [{"operatingsystem":"Debian Jessie"}],
   "project_page": "",
   "requirements": [],
-  "source": "",
-  "summary": "",
+  "source": "https://github.com/GabrielDuBOIS/puppet-apache.git",
+  "summary": "Module généric apache",
   "tags": ["apache"],
   "version": "0.1.0"
 }
